@@ -2,7 +2,7 @@
 
 #  About Me
 
-Hi there! I'm **Uswah Nadeem**, a Computational Finance student at **NED University of Engineering and Technology** with a passion for **Data Analytics, Machine Learning, and Artificial Intelligence**.
+I'm **Uswah Nadeem**, a Computational Finance student at **NED University of Engineering and Technology** with a passion for **Data Analytics, Machine Learning, and Artificial Intelligence**.
 
 I enjoy transforming raw data into meaningful insights and building practical solutions that combine technology, finance, and AI. I love exploring new tools, experimenting with ideas, and turning concepts into real-world projects.
 
@@ -42,8 +42,7 @@ Let's build something amazing together 🚀
 ![](https://streak-stats.demolab.com/?user=uswahnadeem05-maker&theme=midnight-purple&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=uswahnadeem05-maker&theme=midnight-purple&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
----
-[![](https://komarev.com/ghpvc/?username=uswahnadeem05-maker&icon=0&color=0)](https://visitcount.itsvg.in)
+
 
 
 - ⚡ Fun fact: ...
