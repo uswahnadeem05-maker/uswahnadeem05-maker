@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-# ## 👋 About Me
+#  About Me
 
 Hi there! I'm **Uswah Nadeem**, a Computational Finance student at **NED University of Engineering and Technology** with a passion for **Data Analytics, Machine Learning, and Artificial Intelligence**.
 
