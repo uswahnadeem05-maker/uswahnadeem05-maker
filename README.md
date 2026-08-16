@@ -52,24 +52,10 @@ I enjoy:
 
 | Project | Description | Tech Stack |
 |---------|-------------|-----------|
-| **[Stock Valuation Tool](https://github.com/uswahnadeem05-maker)** | Python-based financial analysis tool for stock valuation, designed for fintech & IB roles | Python, Pandas, Streamlit |
-| **[Personal Finance Dashboard](https://github.com/uswahnadeem05-maker)** | Full-stack income/expense tracking with budgets & financial goals | React, Node.js, Express, MongoDB |
-| **[Loan Eligibility Predictor](https://github.com/uswahnadeem05-maker)** | ML model predicting loan approval likelihood (NED Data Science course) | Python, Scikit-learn, Pandas |
-| **[House Price Prediction](https://github.com/uswahnadeem05-maker)** | End-to-end data science pipeline for real estate valuation (CodeAlpha) | Python, ML, Data Visualization |
-| **[Skills Demand Hub](https://github.com/uswahnadeem05-maker)** | Streamlit hackathon project — career empowerment platform analyzing job market trends | Streamlit, Data Analysis |
-| **[Study Sprint](https://github.com/uswahnadeem05-maker)** | Productivity app converting syllabus into structured daily study plans | JavaScript, Vercel, Frontend Design |
-
----
-
-## 🏆 Highlights
-
-- 🥇 **Ranked 159th of 1,790 applicants** admitted to NED University on pure merit
-- 🤖 **Completed Google AI Agents Intensive: Vibe Coding Capstone** — built and deployed live multi-agent StudyMind AI to production
-- 💼 **Juggled 4+ concurrent internships** (AI, Flutter, UI/UX, QA) while shipping real deliverables
-- 📊 **Scored 91/100 (Tier I)** on Skkillo marketing strategy challenge — ranked #24 of 252 participants
-- 🏗️ **Built & shipped full multi-agent AI system** for Kaggle Vibecoding Agents Hackathon — Agents for Good track
-- 📈 **Completed Deloitte Australia Data Analytics Job Simulation** — real-world Tableau dashboarding + Excel analytics
-- 🎓 **Completed 8+ industry courses** in AI, data analytics, and agents architecture
+| **[Stock Valuation Tool](https://github.com/uswahnadeem05-maker/StockValueTool)** | Python-based financial analysis tool for stock valuation, designed for fintech & IB roles | Python, Pandas, Streamlit |
+| **[Loan Eligibility Predictor]()** | ML model predicting loan approval likelihood (NED Data Science course) | Python, Scikit-learn, Pandas |
+| **[House Price Prediction](https://github.com/uswahnadeem05-maker/HOUSE-PREDICTION.git)** | End-to-end data science pipeline for real estate valuation (CodeAlpha) | Python, ML, Data Visualization |
+| **[Skills Demand Hub](https://github.com/uswahnadeem05-maker/Skills-Demand-Hub)** | Streamlit hackathon project — career empowerment platform analyzing job market trends | Streamlit, Data Analysis |
 
 ---
 
@@ -77,23 +63,13 @@ I enjoy:
 
 | Credential | Platform | Course Details | Status | Date |
 |-----------|----------|----------------|--------|------|
-| **Google AI Professional Certificate** | Google (Coursera) | 7 comprehensive courses covering ML fundamentals, data science, LLMs | ✅ Completed | 2026 |
 | **AI Fluency: Framework & Foundations** | Anthropic Academy | In-depth exploration of LLM architectures, prompt engineering, responsible AI | ✅ Completed | 2026 |
 | **5-Day AI Agents: Intensive Vibe Coding Course** | Google x Kaggle | Multi-agent systems, Agent Skills framework, deploying agentic applications to production | ✅ Completed | 2026 |
 | **Deloitte Australia Data Analytics Job Simulation** | Forage | Real-world data analytics: Tableau dashboard creation, Excel data classification, business insights | ✅ Completed | 2026 |
 | **Kaggle "Vibecoding Agents" Hackathon** | Kaggle | Built & shipped **StudyMind AI** — multi-agent study companion (AI Tutor, PDF Summarizer, Quiz Generator, Study Planner, Progress Tracker) — submitted under "Agents for Good" track with full video demo & writeup | ✅ Completed | 2026 |
-| **IBM Data Analytics & AI** | IBM SkillsBuild | Foundation coursework in intelligent systems design and AI agent development | 🔄 In Progress | 2026 |
-| **Troubleshoot Your Code** | IBM SkillsBuild | Lab-correlated practical debugging and code optimization | ✅ Completed | 2026 |
-
 ---
 
 ## 🧠 Key Learnings & Skills Acquired
-
-**From Google AI Professional Certificate:**
-- Machine Learning fundamentals (supervised/unsupervised learning, neural networks)
-- Data preprocessing, feature engineering, model evaluation
-- Generative AI and prompt design best practices
-- Real-world ML pipeline development
 
 **From Anthropic AI Fluency:**
 - How large language models work (architecture, training, inference)
@@ -155,14 +131,9 @@ I enjoy:
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34C26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 
 ### **Backend & AI**
 
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
 ![Google AI Studio](https://img.shields.io/badge/Google%20AI-4285F4?style=for-the-badge&logo=google&logoColor=white)
 ![Claude API](https://img.shields.io/badge/Claude%20API-000000?style=for-the-badge&logo=anthropic&logoColor=white)
 
@@ -178,15 +149,8 @@ I enjoy:
 ### **Frameworks & Tools**
 
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
-![Gradio](https://img.shields.io/badge/Gradio-FDB750?style=for-the-badge&logo=gradio&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-
-### **Cloud & Deployment**
-
-![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-13AA52?style=for-the-badge&logo=mongodb&logoColor=white)
 
 ### **Analytics & Visualization**
 
