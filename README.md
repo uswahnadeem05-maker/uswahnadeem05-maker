@@ -99,30 +99,6 @@ I enjoy:
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-![Uswah's GitHub stats](https://github-readme-stats.vercel.app/api?username=uswahnadeem05-maker&show_icons=true&theme=dark&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=uswahnadeem05-maker&layout=compact&theme=dark)
-
-</div>
-
----
-
-## 📈 Contribution Activity
-
-82 contributions in the last year — consistently shipping projects and pushing code.
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/uswahnadeem05-maker/uswahnadeem05-maker/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/uswahnadeem05-maker/uswahnadeem05-maker/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/uswahnadeem05-maker/uswahnadeem05-maker/output/github-contribution-grid-snake.svg">
-</picture>
-
----
-
 ## 🛠️ Tech Stack
 
 ### **Languages & Frontend**
